@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!makefile
 !ddraw.ini
 !f2_res.ini
 
