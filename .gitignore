@@ -2,6 +2,9 @@
 
 !.gitignore
 !makefile
+!LICENSE
+!README.md
+
 !ddraw.ini
 !f2_res.ini
 
